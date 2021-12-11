@@ -1,5 +1,5 @@
 // tel:0555861144 - tel:0541662048
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, } from 'react';
 import Recipes from './components/recipes';
 import SearchBox from './components/searchbox';
 import Modal from './components/model';
